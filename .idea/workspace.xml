@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e287d9f3-45f4-49bd-846e-94215e1ca4cb" name="Changes" comment="stworzenie base.html i zmiany w głównym katalogu">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="e287d9f3-45f4-49bd-846e-94215e1ca4cb" name="Changes" comment="dodano nowy szablon" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,12 +72,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674001007238</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dodano nowy szablon">
+      <created>1674074118650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674074118650</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teraz jest git" />
     <MESSAGE value="stworzenie base.html i zmiany w głównym katalogu" />
-    <option name="LAST_COMMIT_MESSAGE" value="stworzenie base.html i zmiany w głównym katalogu" />
+    <MESSAGE value="dodano nowy szablon" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodano nowy szablon" />
   </component>
 </project>
