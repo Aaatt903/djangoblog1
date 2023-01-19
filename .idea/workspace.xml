@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf9bbd2-0a49-4e4b-879a-424f361b39a3" name="Changes" comment="dodanie image">
-      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/image_display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/image_display.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/image_display.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +26,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "last_opened_file_path": "C:/Users/stasi/djangoblog/blog/templates/blog"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stasi\djangoblog\blog\templates\blog" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="dodanie image">
       <created>1674170868237</created>
@@ -39,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674170868238</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dodanie image">
+      <created>1674171120815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674171120815</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
